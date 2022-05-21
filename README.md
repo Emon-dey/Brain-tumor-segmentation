@@ -4,7 +4,7 @@ Here I include the necessary codes for the course project CMSC691.
 If you want to check a sample code operation with IID setup for a set of specific settings you can go to code/main_code.ipynb.
 To run the code from beginning, please follow the following steps:
 - Download the data from https://www.kaggle.com/awsaf49/brats20-dataset-training-validation.
-- Create two folders named train and val with data and mask folders insied each of them.
+- Create two folders named train and val with data and mask folders inside each of them.
 - Modify hyperparameters.txt to fit (Adjust the directories).
 - Run prepare_dataset.py
 - Then run the main_code.ipynb
