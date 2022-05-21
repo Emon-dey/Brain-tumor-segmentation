@@ -1,0 +1,14 @@
+raw_data_dir:/home/emon/Downloads/Github/archive/
+training_dir:/home/emon/Downloads/Github/data/train/
+validation_dir:/home/emon/Downloads/Github/data/val/
+data_dir_name:data/
+seg_dir_name:mask/
+channel_names:flair,t1,t1ce,t2
+seg_channel_name:seg
+min_patch_size:1
+load_data:False
+do_preprocess:False
+bg_threshold:0.99
+save_thresholded_sample_names:True
+rendering_sample_name:BraTS20_Training_001
+num_classes:4
